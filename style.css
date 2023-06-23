@@ -1,0 +1,67 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+#main {
+  width: 540px;
+  margin: 64px auto;
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+}
+
+span {
+  color: #EE24FF;
+  font-weight: bold;
+}
+
+p {
+  color: #828282;
+  font-size: 15px;
+  line-height: 22px;
+  width: 540px;
+}
+
+p strong {
+  color: #3F3D56;
+}
+
+p + p {
+  margin-top: 32px;
+}
+
+a + a {
+  margin-left: 42px;
+}
+
+a {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: #3F3D56;
+  text-decoration: none;
+}
+
+#NameShop {
+  color: #828282;
+}
+
+.line {
+  width: 391px;
+  height: 0px;
+  margin: 64px auto 16px;
+
+  border: 1px solid #ECEFF2;
+}
+
+
+#wave {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
